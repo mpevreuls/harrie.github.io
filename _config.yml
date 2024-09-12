@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: HarrieCRM Software for Trading Agents and Commission brokers
-url: "https://mpevreuls.github.io/harrie.github.io"
-baseurl:"https://mpevreuls.github.io/harrie.github.io":
+title: Hydra Template
+url: "https://proud-alligator.cloudvent.net"
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: HarrieCRM Saas solution for trading agents.
+description: Product marketing template for Jekyll.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: HarrieCRM
+  name: Hydra Template
   links:
-    - https://mpevreuls.github.io/harrie.github.io
+    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
